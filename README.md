@@ -11,7 +11,7 @@ A data repository for multiple stduies' data deveolped by the [Department of Bio
 * Omics studies
     * [iHMP Meatbolomics Data](https://github.com/gwcbi/Data_Library/wiki/iHMP)
 * Clicnal trial datasets
-    * [The Diabetes Control and Complications Trial (DCCT)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3867999/)
+    * [The Diabetes Control and Complications Trial (DCCT)](https://github.com/gwcbi/Data_Library/wiki/The-Diabetes-Control-and-Complications-Trial-(DCCT))
 * [Troubleshooting](#troubleshooting)
 
 ## Troubleshooting ##
