@@ -10,10 +10,10 @@ A data repository for multiple stduies' data deveolped by the [Department of Bio
 
 ## Contents ##
 
-* [Omics studies](#requirements)
-    * [RYGB]()
+* [Omics studies]
+    * [RYGB](https://github.com/gwcbi/Data_Library/wiki/)
     * [iHMP](https://github.com/gwcbi/Data_Library/wiki/iHMP)
-* [Clicnal trials datasets](#installation)
+* [Clicnal trial datasets]
     * [Dataset1](#dataset1)
     * [Dataset2](#dataset1)
 * [Troubleshooting](#troubleshooting)
