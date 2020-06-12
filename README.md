@@ -22,7 +22,7 @@ The data library is implemented as an R package.
 
 Instruction to install it using RStudio.
 
-If you do not have RStudio installed on your computer, then please find information to install it from (here)[https://rstudio.com/products/rstudio/download/]
+If you do not have RStudio installed on your computer, then please find information to install it from [here](https://rstudio.com/products/rstudio/download/)
 
 I RSTudio console you can run the following R commands to install requirements and the library:
 
@@ -48,7 +48,6 @@ I RSTudio console you can run the following R commands to install requirements a
 
 * [iHMP Meatbolomics Data](https://github.com/gwcbi/Data_Library/wiki/iHMP)
 * [The Diabetes Control and Complications Trial (DCCT)](https://github.com/gwcbi/Data_Library/wiki/The-Diabetes-Control-and-Complications-Trial-(DCCT))
-* [Troubleshooting](#troubleshooting)
 
 --------------------------------------------
 
