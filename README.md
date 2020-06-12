@@ -16,11 +16,41 @@ The datasets are for different human disease, environmental studies, and include
 
 --------------------------------------------
 
+## Install the library ##
+
+The data library is implemented as an R package.
+
+Instruction to install it using RStudio.
+
+If you do not have RStudio installed on your computer, then please find information to install it from (here)[https://rstudio.com/products/rstudio/download/]
+
+I RSTudio console you can run the following R commands to install requirements and the library:
+
+* install devtools: a tool enables installing packages from Github
+
+  ```library(devtools)```
+
+* install GWDBB from the GitHub repository 
+
+  ```install_github(‘GWCBI/GWDBB')```
+
+* load the library
+
+  ```library(GWDBB)```
+
+* load a dataset of interest 
+
+  ```load('RYGB')```
+
+--------------------------------------------
+
 ## Datasets ##
 
 * [iHMP Meatbolomics Data](https://github.com/gwcbi/Data_Library/wiki/iHMP)
 * [The Diabetes Control and Complications Trial (DCCT)](https://github.com/gwcbi/Data_Library/wiki/The-Diabetes-Control-and-Complications-Trial-(DCCT))
 * [Troubleshooting](#troubleshooting)
+
+--------------------------------------------
 
 ## Troubleshooting ##
  
