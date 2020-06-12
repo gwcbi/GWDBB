@@ -1,0 +1,18 @@
+Package: GWDBB
+Title: GWDBB
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ali",
+           family = "Rahnavard",
+           role = c("aut", "cre"),
+           email = "rahnavard@gwu.edu",
+           comment = c(ORCID = "0000-0002-9710-0248"))
+Description: GWDBB library includes a library of datasets from study's performed by faculty members of DBB. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to
+    pick a license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Depends: 
+    R (>= 2.10)

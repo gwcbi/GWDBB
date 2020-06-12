@@ -40,7 +40,7 @@ I RSTudio console you can run the following R commands to install requirements a
 
 * load a dataset of interest 
 
-  ```load('RYGB')```
+  ```load('GWDBB')```
 
 --------------------------------------------
 
