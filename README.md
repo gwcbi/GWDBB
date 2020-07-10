@@ -3,7 +3,8 @@
 ## Data Library Description ##
 
 A data repository for multiple studies' data developed by the [Department of Biostatistics and Bioinformatics (DBB)](https://publichealth.gwu.edu/departments/biostatistics-and-bioinformatics) at [George Washington University](https://www.gwu.edu/). 
-* *Citation*: A reference data library for clinical trials and omics data, Department of Biostatistics and Bioinformatics, Milken Institute School of Public Health, George Washington University, 2020 
+
+* *Citation*: **A reference data library for clinical trials and omics data**, Department of Biostatistics and Bioinformatics, Milken Institute School of Public Health, George Washington University, 2020 
 
 ## Data orgnization ##
 This repository includes a library of datasets from study's performed by faculty members of DBB. 
@@ -24,7 +25,7 @@ Instruction to install it using RStudio.
 
 If you do not have RStudio installed on your computer, then please find information to install it from [here](https://rstudio.com/products/rstudio/download/)
 
-I RSTudio console you can run the following R commands to install requirements and the library:
+I RStudio console you can run the following R commands to install requirements and the library:
 
 * install devtools: a tool enables installing packages from Github
 
