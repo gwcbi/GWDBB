@@ -33,21 +33,21 @@ I RStudio console you can run the following R commands to install requirements a
 
 * install GWDBB from the GitHub repository 
 
-  ```install_github(‘GWCBI/GWDBB')```
+  ```install_github('GWCBI/GWDBB')```
 
 * load the library
 
   ```library(GWDBB)```
 
-* load a dataset of interest 
+* load a dataset of interest e.g. micorbail species from Human Microbiome Project
 
-  ```load('GWDBB')```
+  ```data("HMP1_II_Metadata")```
 
 --------------------------------------------
 
 ## Datasets ##
 
-* [iHMP Meatbolomics Data](https://github.com/gwcbi/Data_Library/wiki/iHMP)
+* [HMP1-II: a dataset of microbial species abundance and related metadata](https://github.com/gwcbi/Data_Library/wiki/HMP1-II)
 * [The Diabetes Control and Complications Trial (DCCT)](https://github.com/gwcbi/Data_Library/wiki/The-Diabetes-Control-and-Complications-Trial-(DCCT))
 
 --------------------------------------------
