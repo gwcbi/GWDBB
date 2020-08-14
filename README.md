@@ -53,5 +53,7 @@ I RStudio console you can run the following R commands to install requirements a
 --------------------------------------------
 
 ## Troubleshooting ##
+
+Please submit any issue you face when using the data library using [Issues](https://github.com/gwcbi/GWDBB/issues)
  
 
