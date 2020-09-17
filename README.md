@@ -48,7 +48,7 @@ I RStudio console you can run the following R commands to install requirements a
 ## Datasets ##
 
 * [HMP1-II: a dataset of microbial species abundance and related metadata](https://github.com/gwcbi/Data_Library/wiki/HMP1-II)
-* [The Diabetes Control and Complications Trial (DCCT)](https://github.com/gwcbi/Data_Library/wiki/The-Diabetes-Control-and-Complications-Trial-(DCCT))
+* [Treatment Options for Type II Diabetes in Adolescents and Youth (TODAY) study](https://github.com/gwcbi/GWDBB/wiki/The-Treatment-Options-for-Type-II-Diabetes-and-Youth-Study)
 
 --------------------------------------------
 
