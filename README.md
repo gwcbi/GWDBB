@@ -48,8 +48,7 @@ I RStudio console you can run the following R commands to install requirements a
 ## Datasets ##
 * [HMP1-II: a dataset of microbial species abundance and related metadata](https://github.com/gwcbi/Data_Library/wiki/HMP1-II)
 * [Breast milk and infant stool omics](https://github.com/gwcbi/Data_Library/wiki/Breast-milk-infant-stool-omics)
-
-* [Breast milk BGC] (https://github.com/gwcbi/Data_Library/wiki/Breast-milk-bgc)
+* [Breast milk BGC](https://github.com/gwcbi/Data_Library/wiki/Breast-milk-bgc)
 
 * [Breast milk Microbiome] (https://github.com/gwcbi/Data_Library/wiki/Breast-milk-microbiome)
 
