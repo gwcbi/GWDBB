@@ -49,10 +49,8 @@ I RStudio console you can run the following R commands to install requirements a
 * [HMP1-II: a dataset of microbial species abundance and related metadata](https://github.com/gwcbi/Data_Library/wiki/HMP1-II)
 * [Breast milk and infant stool omics](https://github.com/gwcbi/Data_Library/wiki/Breast-milk-infant-stool-omics)
 * [Breast milk BGC](https://github.com/gwcbi/Data_Library/wiki/Breast-milk-bgc)
-
-* [Breast milk Microbiome] (https://github.com/gwcbi/Data_Library/wiki/Breast-milk-microbiome)
-
-* [Breast milk infant Microbiome] (https://github.com/gwcbi/Data_Library/wiki/Breast-milk-infant-microbiome)
+* [Breast milk Microbiome](https://github.com/gwcbi/Data_Library/wiki/Breast-milk-microbiome)
+* [Breast milk infant Microbiome](https://github.com/gwcbi/Data_Library/wiki/Breast-milk-infant-microbiome)
 
 * [Treatment Options for Type II Diabetes in Adolescents and Youth (TODAY) study](https://github.com/gwcbi/GWDBB/wiki/The-Treatment-Options-for-Type-II-Diabetes-and-Youth-Study)
 * [Systemic Lupus Erythematosus: Gene Expression and Expression of Human Endogenous Retroviruses](https://github.com/gwcbi/GWDBB/wiki/Systemic-Lupus-Erythematosus)
