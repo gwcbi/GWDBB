@@ -2,9 +2,9 @@
 
 This folder contains two 100-row, fully de-identified CSV samples:
 
-1. **baseline_sample.csv**  
+1. **DCCT_sample_baseline.csv**  
    - From DCCT Baseline dataset  
-   - Columns: age, sex, HbA1c, duration_of_diabetes, etc.
+   - Columns: age, HbA1c, duration_of_diabetes, etc.
 
 2. **edicbase_sample.csv**  
    - From EDIC Baseline follow-up  
