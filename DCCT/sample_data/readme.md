@@ -6,7 +6,7 @@ This folder contains two 200-row, fully de-identified CSV samples:
    - From DCCT Baseline dataset  
    - Columns: age, HbA1c, duration_of_diabetes, etc.
 
-2. **edicbase_sample.csv**  
+2. **EDIC_sample_baseline.csv**  
    - From EDIC Baseline follow-up  
    - Columns: age, sex, HbA1c, systolic_bp, cholesterol, etc.
 
