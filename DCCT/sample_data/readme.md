@@ -1,6 +1,6 @@
 # DCCT/EDIC Sample Datasets
 
-This folder contains two 100-row, fully de-identified CSV samples:
+This folder contains two 200-row, fully de-identified CSV samples:
 
 1. **DCCT_sample_baseline.csv**  
    - From DCCT Baseline dataset  
